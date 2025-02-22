@@ -5,7 +5,6 @@ This repository contains the code and analysis for the agricultural case study.
 ## Files
 
 - `agri.ipynb`: Jupyter Notebook containing the analysis and visualizations.
-- `car_data.csv`: Dataset used for the analysis (replace with your actual dataset file name).
 
 ## Analysis
 
