@@ -29,4 +29,3 @@ The analysis includes the following steps:
     jupyter notebook agri.ipynb
     ```
 
-4. Run the cells in the notebook to see the analysis and visualizations.
