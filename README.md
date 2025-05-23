@@ -8,7 +8,7 @@ This repository contains the code and analysis for the agricultural case study.
 
 ## Analysis
 
-The analysis includes the following steps:
+The analysis includes the following steps
 1. Calculate the mean production for each crop in each season.
 2. Plot individual horizontal bar charts for each season using Seaborn.
 
