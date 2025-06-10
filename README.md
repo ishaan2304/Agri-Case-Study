@@ -1,6 +1,6 @@
 # Agri Case Study
 
-This repository contains the code and analysis for the agricultural case study
+This repository contains the code and analysis for the agricultural case study.
 ## Files
 
 - `agri.ipynb`: Jupyter Notebook containing the analysis and visualizations.
